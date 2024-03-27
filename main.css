@@ -1,0 +1,17 @@
+p {
+    font-size: large;
+}
+
+
+h1 {
+    background-color: brown;
+}
+
+.catolica {
+    color: rgb(10, 136, 136);
+    text-shadow: 2ex;
+}
+
+#curso {
+    text-align: center;
+}
