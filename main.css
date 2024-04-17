@@ -1,34 +1,70 @@
 p {
     font-size: large;
+    font-family: 'Courier New', Courier;
 }
 
 
 h1 {
     background-color: burlywood;
+    font-style: unset;
 }
 
-.catolica {
+.gallery1 {
     color: rgb(8, 4, 18);
     text-shadow: 2ex;
+    font-size: large;
 }
 
 #curso {
-    text-align:center;
+    text-align: center;
 }
-.the-lovers{
+
+.the-lovers {
     width: 400px;
     height: 300px;
-    border-radius: 50px;
-   }
-   
+    border-radius:50px;
+}
+
 .girl-with-pearl {
     width: 400px;
     height: 400px;
     border-radius: 50px;
 }
-.i-found-my-silence{
-    width: 400px;
-    height:400px;
+
+.i-found-my-silence {
+    width: 450px;
+    height: 450px;
     border-radius: 50px;
 }
 
+.flex-container {
+    display: flex;
+
+}
+
+.flex-item {
+    background-color: burlywood;
+    border: radius 100px;
+    border-style: double;
+    padding:100px;
+}
+
+.linha {
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.coluna {
+    flex-direction: column;
+}
+
+.fonte-paragrafo {
+    font-family: arial;
+}
+
+.fonte-galeria1 {
+    font-family: Georgia;
+}
+.strawberry1{
+    
+}
